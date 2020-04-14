@@ -1,2 +1,0 @@
-# sikikaradio
-Sikika Online Radio
